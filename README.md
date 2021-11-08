@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## I'm Aviv, a Software Engineer 
 
-# Working on daily basis with:
+### Working on daily basis with:
     - Node.js
     - JavaScript
     - Nest.js
