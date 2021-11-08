@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## I'm Aviv, a Software Engineer 
+
+# Working on daily basis with:
+    - Node.js
+    - JavaScript
+    - Nest.js
+    - Angular
+    - Typescript
+
 <!--
 **Avivbens/avivbens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
