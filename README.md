@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 ### Working on daily basis with:
     - Node.js
     - JavaScript
+    - Typescript
     - Nest.js
     - Angular
-    - Typescript
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 ✍️ &nbsp;In my free time, I like to design and create new little problem-solvers apps, such as web crawlers.\
 💬 &nbsp;Feel free to reach out to me for any kind of community open source code,  or just for some interesting discussion.\
 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/avivbens/avivbens/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
