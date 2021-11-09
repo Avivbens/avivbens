@@ -36,7 +36,10 @@ Here are some ideas to get you started:
     - Typescript
     - Nest.js
     - Angular
+    - AWS
+    - MongoDB
 
+<br />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -44,6 +47,7 @@ Here are some ideas to get you started:
 ✍️ &nbsp;In my free time, I like to design and create new little problem-solvers apps, such as web crawlers.\
 💬 &nbsp;Feel free to reach out to me for any kind of community open source code,  or just for some interesting discussion.\
 
+<br />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -64,18 +68,21 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+<br />
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/avivbens">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avivbens&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avivbens&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/avivbens"  style="display: flex; flex-direction: column;">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avivbens&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="margin-bottom: 20px"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avivbens&layout=compact&langs_count=8&theme=algolia" style="margin-bottom: 20px"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="center" style="margin-top: 20px; display: flex; gap: 12px; justify-content: center;">
 <a href="https://www.linkedin.com/in/aviv-ben-shahar-33583b211/"><img src="https://img.shields.io/badge/-Aviv%20Ben%20Shahar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:avivbens87@gmail.com"><img src="https://img.shields.io/badge/-avivbens87@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/aviv_ben_shahar"><img src="https://img.shields.io/badge/-@aviv_ben_shahar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
