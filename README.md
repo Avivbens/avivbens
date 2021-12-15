@@ -51,18 +51,21 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; \
+![JavaScript](https://img.shields.io/badge/-JavaScript-E1CA3E?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-1066C6?style=flat&logo=typescript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-85122A?style=flat&logo=angular)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-111?style=flat&logo=vue.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05929A?style=flat&logo=react)&nbsp; \
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![RxJS](https://img.shields.io/badge/-RxJS-05122A?style=flat&logo=RxJS&logoColor=1572B6)&nbsp;
+![socket.io](https://img.shields.io/badge/-socket.io-05122A?style=flat&logo=socket.io&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) \
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; \
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
@@ -93,4 +96,4 @@ Here are some ideas to get you started:
 -----
 Credits: [Aviv Ben Shahar](https://github.com/avivbens)
 
-Last Edited on: 09/11/2021
+Last Edited on: 16/12/2021
