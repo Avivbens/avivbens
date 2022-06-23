@@ -53,6 +53,15 @@ Here are some ideas to get you started:
 
 <br />
 
+## My Libraries:
+
+### RX-RETRY
+[rx-retry](https://www.npmjs.com/package/rx-retry) - Support retries strategy, has all configuration options, from backoff to JITTER (backoff with random), max retry interval and max retries, retry interceptor to decide whether should we perform a retry or not, etc. 
+It has full support for Promises and Observables, works both on browser and Node.js, and has a unique sync and async configuration for NestJS, to provide a global retry strategy (which can be modified for each retry case).
+
+<br />
+<br />
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E1CA3E?style=flat&logo=javascript)&nbsp;
@@ -101,4 +110,4 @@ Here are some ideas to get you started:
 -----
 Credits: [Aviv Ben Shahar](https://github.com/avivbens)
 
-Last Edited on: 16/12/2021
+Last Edited on: 23/06/2022
