@@ -30,14 +30,18 @@ Here are some ideas to get you started:
 
 <h2>Hey there! I'm Aviv, a Software Engineer</h2>
 
-### Working on daily basis with:
+### Working on a daily basis with:
     - Node.js
     - JavaScript
     - Typescript
     - Nest.js
     - Angular
+    - GCP
     - AWS
     - MongoDB
+    - PostgreSQL
+    - Cloud Functions & Lambda Functions
+    
 
 <br />
 
