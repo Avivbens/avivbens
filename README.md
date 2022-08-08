@@ -40,6 +40,8 @@ Here are some ideas to get you started:
     - AWS
     - MongoDB
     - PostgreSQL
+    - Redis
+    - Kafka
     - Cloud Functions & Lambda Functions
     
 
