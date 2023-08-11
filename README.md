@@ -7,7 +7,8 @@
     - JavaScript
     - Nest.js
     - Angular
-    - Typescript -->
+    - Typescript 
+    -->
 
 <!--
 **Avivbens/avivbens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,23 +33,31 @@ Here are some ideas to get you started:
 
 ### Working on a daily basis with:
     - Node.js
-    - JavaScript
     - Typescript
     - Nest.js
     - Angular
+    - JavaScript
     - GCP
     - AWS
     - MongoDB
     - PostgreSQL
     - Redis
     - Kafka
+    - Web Workers
+    - NPM Libraries
     - Cloud Functions & Lambda Functions
+    - Alfred 5 - Check out my Workflows Libraries:
     
+
+[Open WhatsApp With Contacts](https://www.npmjs.com/package/alfred-open-whatsapp)
+<br />
+
+[Open Bookmarks](https://www.npmjs.com/package/alfred-search-bookmark)
+<br />
 
 <br />
 
 ### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I like to design and create new little problem-solvers apps, such as web crawlers.\
 💬 &nbsp;Feel free to reach out to me for any kind of community open source code,  or just for some interesting discussion.\
@@ -57,9 +66,14 @@ Here are some ideas to get you started:
 
 ## My Libraries:
 
-### RX-RETRY
+### Rx-Retry
 [rx-retry](https://www.npmjs.com/package/rx-retry) - Support retries strategy, has all configuration options, from backoff to JITTER (backoff with random), max retry interval and max retries, retry interceptor to decide whether should we perform a retry or not, etc. 
 It has full support for Promises and Observables, works both on browser and Node.js, and has a unique sync and async configuration for NestJS, to provide a global retry strategy (which can be modified for each retry case).
+
+### Rx-Parallel
+[rx-parallel](https://www.npmjs.com/package/rx-parallel) - a library that allows you to run asynchronous tasks in parallel, using RxJS.
+The idea behind this library is to allow you to run asynchronous tasks in parallel, while still being able to control the number of concurrent tasks, and to be able to handle the results of each task.
+It is very useful in cases that too many executions might causing an error, like calling an API and getting 429 HTTP ERROR - Too Many Requests.
 
 <br />
 <br />
@@ -112,4 +126,4 @@ It has full support for Promises and Observables, works both on browser and Node
 -----
 Credits: [Aviv Ben Shahar](https://github.com/avivbens)
 
-Last Edited on: 23/06/2022
+Last Edited on: 12/08/2023
