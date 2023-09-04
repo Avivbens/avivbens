@@ -25,14 +25,6 @@
 
 [Open Bookmarks](https://www.npmjs.com/package/alfred-search-bookmark)
 <br />
-
-<br />
-
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✍️ &nbsp;In my free time, I like to design and create new little problem-solvers apps, such as web crawlers.\
-💬 &nbsp;Feel free to reach out to me for any kind of community open source code,  or just for some interesting discussion.\
-
 <br />
 
 ## My CLI:
