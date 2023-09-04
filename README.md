@@ -1,5 +1,6 @@
 <h2 align="center">Hey there! 👋 I'm Aviv - Software Engineer</h2>
 
+#### I enjoy working with NestJS, Angular, Typescript, and Bash. My passion lies in creating tools that make everyday tasks easier.
 
 ### Working on a daily basis with:
     - Node.js
