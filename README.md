@@ -10,6 +10,8 @@
     - JavaScript
     - GCP
     - AWS
+    - Nx
+    - CI/CD
     - MongoDB
     - PostgreSQL
     - Redis
@@ -94,4 +96,4 @@ It is very useful in cases that too many executions might causing an error, like
 -----
 Credits: [Aviv Ben Shahar](https://github.com/avivbens)
 
-Last Edited on: 02/09/2023
+Last Edited on: 13/03/2024
