@@ -4,23 +4,16 @@
 
 ### Working on a daily basis with:
     - Node.js
-    - Typescript
     - Nest.js
     - Angular
-    - JavaScript
-    - GCP
-    - AWS
+    - GCP / AWS
     - Nx
     - CI/CD
-    - MongoDB
-    - PostgreSQL
+    - MongoDB + PostgreSQL
     - Redis
-    - Kafka
-    - Web Workers
-    - NPM Libraries
-    - Cloud Functions & Lambda Functions
-    - Alfred 5 - Check out my Workflows Libraries:
+    - Kafka / PubSub
     
+#### Alfred 5 - Check out my Workflows Libraries:
 
 [Open WhatsApp With Contacts](https://www.npmjs.com/package/alfred-open-whatsapp)
 <br />
@@ -48,33 +41,6 @@ It is very useful in cases that too many executions might causing an error, like
 <br />
 <br />
 
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-E1CA3E?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-1066C6?style=flat&logo=typescript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-85122A?style=flat&logo=angular)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-111?style=flat&logo=vue.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05929A?style=flat&logo=react)&nbsp; \
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![RxJS](https://img.shields.io/badge/-RxJS-05122A?style=flat&logo=RxJS&logoColor=1572B6)&nbsp;
-![socket.io](https://img.shields.io/badge/-socket.io-05122A?style=flat&logo=socket.io&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) \
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; \
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-<br />
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -96,4 +62,4 @@ It is very useful in cases that too many executions might causing an error, like
 -----
 Credits: [Aviv Ben Shahar](https://github.com/avivbens)
 
-Last Edited on: 13/03/2024
+Last Edited on: 13/04/2024
