@@ -13,28 +13,23 @@
     - Redis
     - Kafka / PubSub
     
-#### Alfred 5 - Check out my Workflows Libraries:
+#### Alfred 5 - Check out my Alfred Framework:
 
-[Open WhatsApp With Contacts](https://www.npmjs.com/package/alfred-open-whatsapp)
-<br />
-
-[Open Bookmarks](https://www.npmjs.com/package/alfred-search-bookmark)
-<br />
-<br />
+[`fast-alfred`](https://github.com/Avivbens/fast-alfred) - Your Alfred-friendly framework & bundler, for developing Alfred workflows in TypeScript/JavaScript 🥷
 
 ## My CLI:
 
 ### Shell-Config
-[shell-config](https://github.com/Avivbens/shell-config) - 🚀 Simplify your MacOS setup with shell-config - a CLI tool that tailors configurations, installs apps, and enables seamless team collaboration.
+[`shell-config`](https://github.com/Avivbens/shell-config) - 🚀 Simplify your MacOS setup with shell-config - a CLI tool that tailors configurations, installs apps, and enables seamless team collaboration.
 
 ## My Libraries:
 
 ### Rx-Retry
-[rx-retry](https://www.npmjs.com/package/rx-retry) - Support retries strategy, has all configuration options, from backoff to JITTER (backoff with random), max retry interval and max retries, retry interceptor to decide whether should we perform a retry or not, etc. 
+[`rx-retry`](https://www.npmjs.com/package/rx-retry) - Support retries strategy, has all configuration options, from backoff to JITTER (backoff with random), max retry interval and max retries, retry interceptor to decide whether should we perform a retry or not, etc. 
 It has full support for Promises and Observables, works both on browser and Node.js, and has a unique sync and async configuration for NestJS, to provide a global retry strategy (which can be modified for each retry case).
 
 ### Rx-Parallel
-[rx-parallel](https://www.npmjs.com/package/rx-parallel) - a library that allows you to run asynchronous tasks in parallel, using RxJS.
+[`rx-parallel`](https://www.npmjs.com/package/rx-parallel) - a library that allows you to run asynchronous tasks in parallel, using RxJS.
 The idea behind this library is to allow you to run asynchronous tasks in parallel, while still being able to control the number of concurrent tasks, and to be able to handle the results of each task.
 It is very useful in cases that too many executions might causing an error, like calling an API and getting 429 HTTP ERROR - Too Many Requests.
 
@@ -62,4 +57,4 @@ It is very useful in cases that too many executions might causing an error, like
 -----
 Credits: [Aviv Ben Shahar](https://github.com/avivbens)
 
-Last Edited on: 13/04/2024
+Last Edited on: 11/06/2024
