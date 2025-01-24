@@ -8,11 +8,11 @@
 
 ### 💻 Tech Stack I Work With Daily:
 
-- **Backend**: Node.js, Nest.js, Kafka, Redis  
+- **Backend**: Node.js, Nest.js, Kafka, Pub/Sub, Redis  
 - **Frontend**: Angular, React  
-- **Cloud & DevOps**: GCP, AWS, Kubernetes, Docker, CI/CD  
+- **Cloud & DevOps**: GCP, AWS, Kubernetes, Docker, CI/CD, Jenkins, GitHub Actions  
 - **Databases**: PostgreSQL, MongoDB, Elastic  
-- **Infrastructure**: Nx, Jenkins, Pub/Sub  
+- **Infrastructure**: Nx   
 
 ---
 
@@ -33,8 +33,7 @@
 ### ✨ Highlights from My Career:
 
 - **Tech-Lead @ ZoomInfo**: Leading teams, modernizing legacy systems into microservices, and optimizing for high traffic.  
-- **Scaling Systems**: Reduced latency by 70-80% and tripled system capacity without downtime.  
-- **Event-Driven Architecture**: Designed resilient, high-availability systems using Kafka, Redis, and more.  
+- **Event-Driven Architecture**: Designed resilient, high-availability systems using Kafka, Redis, K8S, and more.  
 - **Open Source Contributions**: Actively contributing to **Nest.js** and other projects in the Node.js ecosystem.
 
 ---
