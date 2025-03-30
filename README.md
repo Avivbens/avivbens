@@ -22,7 +22,7 @@
 [`fast-alfred`](https://github.com/Avivbens/fast-alfred) - 🥷 A powerful TypeScript/JavaScript framework for Alfred workflows, designed for speed and developer joy.
 
 #### Alfred 5 - **Alfredo** 🍝
-[`fast-alfred`](https://github.com/Avivbens/fast-alfred) - ⚡ A fast, modular collection of Alfred workflows built with `fast-alfred`.
+[`alfredo`](https://github.com/Avivbens/alfredo) - ⚡ A fast, modular collection of Alfred workflows built with `fast-alfred`.
 
 #### Shell-Config  
 [`shell-config`](https://github.com/Avivbens/shell-config) - 🚀 A CLI tool to streamline your MacOS setup with configurations, app installations, and team collaboration.
