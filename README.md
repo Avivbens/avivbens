@@ -21,7 +21,7 @@
 #### Alfred 5 - **Fast Alfred**  
 [`fast-alfred`](https://github.com/Avivbens/fast-alfred) - 🥷 A powerful TypeScript/JavaScript framework for Alfred workflows, designed for speed and developer joy.
 
-#### Alfred 5 - **Alfredo**  
+#### Alfred 5 - **Alfredo** 🍝
 [`fast-alfred`](https://github.com/Avivbens/fast-alfred) - ⚡ A fast, modular collection of Alfred workflows built with `fast-alfred`.
 
 #### Shell-Config  
