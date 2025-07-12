@@ -1,47 +1,80 @@
-<h2 align="center">Hey there! 👋 I'm Aviv - Software Engineer & Tech Enthusiast</h2>
+<div align="center">
 
-#### I love working with **NestJS**, **TypeScript**, **Angular**, and **Bash**—building tools that simplify tasks and make life easier.  
+## Hi, I'm Aviv 👋
 
-#### 🚀 By day, I lead engineering teams to design **scalable systems** and solve high-traffic challenges. By night, I craft open-source tools for developers worldwide.
+</div>
 
----
+<div align="center">
 
-### 💻 Tech Stack I Work With Daily:
+#### 🚀 Software Engineer | OSS Builder | Scalable Systems Architect
 
-- **Backend**: Node.js, Nest.js, Kafka, Pub/Sub, Redis  
-- **Frontend**: Angular, React  
-- **Cloud & DevOps**: GCP, AWS, Kubernetes, Docker, CI/CD, Jenkins, GitHub Actions  
-- **Databases**: PostgreSQL, MongoDB, Elastic  
-- **Infrastructure**: Nx   
+</div>
 
----
+<div align="center">
 
-### 🌟 Featured Open Source Projects:
+I build tools that help developers move faster, write better code, and scale systems with confidence.
 
-#### Alfred 5 - **Fast Alfred**  
-[`fast-alfred`](https://github.com/Avivbens/fast-alfred) - 🥷 A powerful TypeScript/JavaScript framework for Alfred workflows, designed for speed and developer joy.
-
-#### Alfred 5 - **Alfredo** 🍝
-[`alfredo`](https://github.com/Avivbens/alfredo) - ⚡ A fast, modular collection of Alfred workflows built with `fast-alfred`.
-
-#### Shell-Config  
-[`shell-config`](https://github.com/Avivbens/shell-config) - 🚀 A CLI tool to streamline your MacOS setup with configurations, app installations, and team collaboration.
-
-#### Rx Libraries  
-- **Rx-Retry** [`rx-retry`](https://www.npmjs.com/package/rx-retry) - Configure retry strategies for Promises and Observables with backoff, jitter, and more. Supports NestJS for global retry strategies.  
-- **Rx-Parallel** [`rx-parallel`](https://www.npmjs.com/package/rx-parallel) - Run async tasks in parallel with fine-tuned concurrency control. Perfect for handling API rate limits.
+</div>
 
 ---
 
-### ✨ Highlights from My Career:
+### 🧭 Currently
 
-- **Tech-Lead @ ZoomInfo**: Leading teams, modernizing legacy systems into microservices, and optimizing for high traffic.  
-- **Event-Driven Architecture**: Designed resilient, high-availability systems using Kafka, Redis, K8S, and more.  
-- **Open Source Contributions**: Actively contributing to **Nest.js** and other projects in the Node.js ecosystem.
+-   🧠 Tech Lead @ ZoomInfo – leading modernization of legacy systems into fast, modular microservices
+-   ✨ Building [Fast Alfred](https://github.com/Avivbens/fast-alfred) & [Alfredo](https://github.com/Avivbens/alfredo) – the fastest way to build for [Alfred 5](https://www.alfredapp.com/)
+-   💬 Speaking, writing, and mentoring around architecture, DevX, and open source
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics:
+### 🔧 Tech Stack I Work With
+
+-   **Backend**: NestJS, Node.js, Kafka, Redis, Pub/Sub
+-   **Frontend**: Angular, React
+-   **Cloud**: GCP, AWS, Kubernetes, Docker
+-   **CI/CD**: GitHub Actions, Jenkins, Nx
+-   **Data**: PostgreSQL, MongoDB, Elasticsearch
+
+---
+
+### 🌟 Featured Projects
+
+#### 🥷 [`fast-alfred`](https://github.com/Avivbens/fast-alfred) – A developer-friendly TypeScript framework for building Alfred workflows.
+
+> 📦 Bundles your code and dependencies into production-ready `.alfredworkflow` files – no boilerplate, no hacks.
+
+#### 🍝 [`alfredo`](https://github.com/Avivbens/alfredo) – Curated, production-ready Alfred workflows built with [`fast-alfred`](https://github.com/Avivbens/fast-alfred).
+
+> 🧰 Made for power-users: easy to adjust, updated regularly, and built to speed up daily tasks reliably.
+
+#### 🛠 [shell-config](https://github.com/Avivbens/shell-config)
+
+> Automate your Mac setup: install apps, configure defaults, and sync environments.  
+> 💼 Used by engineering teams to streamline onboarding in seconds.
+
+#### ⚡️ [`rx-parallel`](https://www.npmjs.com/package/rx-parallel)
+
+> Run async jobs with fine-tuned concurrency & rate limit control.  
+> 📈 Powers high-scale scraping, parallel API calls, and bulk job runners.
+
+#### 🔁 [`rx-retry`](https://www.npmjs.com/package/rx-retry)
+
+> Powerful retry strategies for Promises and Observables with exponential backoff, jitter, and NestJS support.  
+> 🔄 Build fault-tolerant flows with ease.
+
+---
+
+### 🏆 Career Highlights
+
+-   🧑‍💻 **Tech Lead @ ZoomInfo**  
+    → Leading cross-team initiatives, migrating 100+ services, and mentoring engineers
+-   ⚙️ **Event-Driven Architectures**  
+    → Built resilient systems with Kafka, Redis, and K8s across millions of daily events
+-   🌍 **Open Source Contributor**  
+    → Active in NestJS, RxJS tools, and productivity ecosystems
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avivbens&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -50,18 +83,21 @@
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me:
+### 🤝 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aviv-ben-shahar-33583b211/"><img src="https://img.shields.io/badge/-Aviv%20Ben%20Shahar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avivbens87@gmail.com"><img src="https://img.shields.io/badge/-avivbens87@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/aviv_ben_shahar"><img src="https://img.shields.io/badge/-@aviv_ben_shahar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aviv-ben-shahar-33583b211/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:avivbens87@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/aviv_ben_shahar"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Let's Build Something Amazing Together!  
+### 🚀 Let’s Build Something Great
 
-Feel free to explore my repositories and reach out for collaboration, ideas, or just to say hi!  
+I'm always down to collaborate on open source, developer tools, or cool ideas.  
+Whether it’s TypeScript, DevX, or clean architecture – let's talk!
 
-_Last updated: March 2025_
+---
+
+<sub>Last updated: July 2025</sub>
