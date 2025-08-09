@@ -20,7 +20,7 @@ I build tools that help developers move faster, write better code, and scale sys
 
 ### 🧭 Currently
 
--   🧠 Tech Lead @ ZoomInfo – leading modernization of legacy systems into fast, modular microservices
+-   🧠 Software Engineer @ LayerX Security – Designing and building cutting-edge AI driven solutions for the future of browser security threats
 -   ✨ Building [Fast Alfred](https://github.com/Avivbens/fast-alfred) & [Alfredo](https://github.com/Avivbens/alfredo) – the fastest way to build for [Alfred 5](https://www.alfredapp.com/)
 -   💬 Speaking, writing, and mentoring around architecture, DevX, and open source
 
@@ -100,4 +100,4 @@ Whether it’s TypeScript, DevX, or clean architecture – let's talk!
 
 ---
 
-<sub>Last updated: July 2025</sub>
+<sub>Last updated: August 2025</sub>
